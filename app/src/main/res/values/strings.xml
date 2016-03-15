@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsappHacker</string>
+   <!--<string name="server_address">10.0.2.2:7070</string>-->
+    <string name="server_address">10.0.3.2:7070</string> <!-- GENYMOTION -->
+    <!--<string name="server_address">shoppingassignment-androidlogin.rhcloud.com</string>-->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
